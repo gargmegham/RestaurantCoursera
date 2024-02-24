@@ -2,7 +2,7 @@
 ------------------
 
 This repository contains the codebase for a restaurant website developed as part of a Coursera project.
-[Demo](./docs/home.png)
+![Demo](./docs/home.png)
 
 ### Table of Contents
 
